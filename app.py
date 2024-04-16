@@ -13,7 +13,6 @@ show_pages([
     Page("pages/imgprocess.py", "Image Procesing", "📷"),
     Page("pages/textvis.py", "Text Visualization", "📜")
 ])
-st.sidebar.image("https://i.imgur.com/9TX68Ou.gif")
 st.sidebar.markdown("Created with ❤️ by Rajasree Baruri")
 
 st.write('This is a Women’s Clothing E-Commerce Analysis using dataset that revolves around the reviews written by customers. ')
