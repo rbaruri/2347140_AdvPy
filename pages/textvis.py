@@ -12,7 +12,7 @@ from nltk import FreqDist
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-nltk.download()
+nltk.download('all')
 
 st.title('Text Visualization')
 
