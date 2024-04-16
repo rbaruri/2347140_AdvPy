@@ -7,3 +7,4 @@ nltk
 wordcloud
 pillow
 scikit-learn
+st-pages
